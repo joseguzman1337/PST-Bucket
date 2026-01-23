@@ -2,3 +2,7 @@
 /.cache/
 /.vagrant/
 .history/
+
+# macOS system files
+.DS_Store
+._*
