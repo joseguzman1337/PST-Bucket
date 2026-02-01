@@ -6,3 +6,7 @@
 # macOS system files
 .DS_Store
 ._*
+
+# macOS system files
+.DS_Store
+._*
